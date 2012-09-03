@@ -1,0 +1,11 @@
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\bin\Debug\StreamTunesServerSide.exe
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\bin\Debug\StreamTunesServerSide.pdb
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\StreamTunesServerSide.Form1.resources
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\StreamTunesServerSide.Properties.Resources.resources
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\StreamTunesServerSide.exe
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\StreamTunesServerSide.pdb
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\Luke\Documents\Work\StreamTunesServerSide\StreamTunesServerSide\obj\x86\Debug\StreamTunesServerSide.csproj.ResolveComReference.cache
